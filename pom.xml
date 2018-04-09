@@ -9,9 +9,9 @@
 	<packaging>pom</packaging>
 
 	<modules>
+		<module>eureka</module>
 		<module>user</module>
 		<module>movie</module>
-		<module>eureka</module>
 	</modules>
 
 	 <parent>
