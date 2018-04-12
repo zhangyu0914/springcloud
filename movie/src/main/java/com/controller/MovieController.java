@@ -8,8 +8,8 @@ import org.springframework.web.client.RestTemplate;
 import com.entity.User;
 
 @RestController
-@RequestMapping("/movice")
-public class MoviceController {
+@RequestMapping("/movie")
+public class MovieController {
 
 	@Autowired
 	private RestTemplate restTemplate;
